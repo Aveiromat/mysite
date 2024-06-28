@@ -1,0 +1,26 @@
+# Arquivos temporários
+*.pyc
+*~
+__pycache__
+
+# Diretórios de ambiente virtual
+venv/
+env/
+.Python
+
+# Logs e arquivos de saída
+*.log
+*.pot
+*.pyo
+*.bak
+*.swp
+
+# Arquivos de configuração locais
+.DS_Store
+.settings/
+
+# Arquivos específicos de IDEs
+.idea/
+.vscode/
+
+# Dependendo do seu editor ou ferramenta de desenvolvimento, você pode precisar adicionar mais
